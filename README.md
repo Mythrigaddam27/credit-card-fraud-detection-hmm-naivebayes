@@ -11,5 +11,7 @@ Please include the dataset source or explain if synthetic data was generated.
 3. Analyze results
 ## 🤝 Contributors
 - Mythri
+- Spoorthi
+- Goutham
 ## 📄 License
 MIT License
